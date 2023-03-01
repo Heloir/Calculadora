@@ -6,8 +6,9 @@
 
 ![](./assets/github-image/calculate.png)
 
-Nesse Projeto Utilizei as seguintes skills: 
+
 Link para o projeto <a href="calculate-project.netlify.app">Calculadora</a> ✔️ RESPONSIVO
+Nesse Projeto Utilizei as seguintes skills: 
 
 <p> HTML5 </p>
 <p> CSS3 </p>
