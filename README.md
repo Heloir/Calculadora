@@ -7,7 +7,7 @@
 ![](./assets/github-image/calculate/calculate.png)
 
 
-<p>Link para o projeto <a href="calculate-project.netlify.app">Calculadora</a> ✔️ RESPONSIVO</p>
+<p>Link para o projeto <a href="https://calculate-project.netlify.app/">Calculadora</a> ✔️ RESPONSIVO</p>
 <h3>Nesse Projeto Utilizei as seguintes skills: <h3>
 
 <p> HTML5 </p>
