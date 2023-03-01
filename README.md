@@ -4,7 +4,7 @@
  Nesse projeto eu quis me desafiar mais ainda, tentando o melhor que eu pude com o conhecimento que tenho até agora.
 
 
-![](./assets/github-image/calculate.png)
+![](./assets/github-image/calculate/calculate.png)
 
 
 <p>Link para o projeto <a href="calculate-project.netlify.app">Calculadora</a> ✔️ RESPONSIVO</p>
