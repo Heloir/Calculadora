@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+</head>
+<body>
+    <main class="position-absolute top-50 start-50 translate-middle border border-light-subtle shadow p-3 mb-5 bg-body-tertiary rounded">
+      <div class="container">
+        <div>
+            <input type="text" class="input mt-3" disabled>
+        </div>
+        <div class="buttons">
+            <div class="operators d-flex gap-3">
+                <div>+</div>
+                <div>-</div>
+                <div>*</div>
+                <div>/</div>
+            </div>
+
+            <div class="content d-flex gap-3">
+                <div class="left-painel d-flex flex-column">
+                    <div class="numbers d-flex gap-3">
+                        <div>7</div>
+                        <div>8</div>
+                        <div>9</div>
+                    </div>
+                    <div class="numbers d-flex gap-3">
+                        <div>4</div>
+                        <div>5</div>
+                        <div>6</div>
+                    </div>
+                    <div class="numbers d-flex gap-3">
+                        <div>1</div>
+                        <div>2</div>
+                        <div>3</div>
+                    </div>
+                    <div class="numbers d-flex gap-3">
+                        <div>0</div>
+                        <div class="point">.</div>
+                        <div class="clean">C</div>
+                    </div>
+                </div>
+                
+                <div class="equal">=</div>
+            </div>
+            
+        </div>
+      </div>
+    </main>
+</body>
+<script src="app.js"></script>
+</html>
